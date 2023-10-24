@@ -1,0 +1,14 @@
+ body {
+                background-color: #FFE4E1;
+                font-family: arial, helvetica, sans-serif;
+                padding: 15px;
+                line-height: 1.4em;
+                }
+                
+iframe {width: 80%;
+height:1000px}
+
+h1 {color:#301934;}
+
+h1.index {text-shadow: 2px 2px 5px #9E7CD7;}
+
